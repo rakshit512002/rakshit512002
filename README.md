@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rakshit512002
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently exploring new frameworks.
-- 💞️ I’m looking to collaborate on Some Web Dev Projects
+- 👀 I’m a Product analyst
+- 🌱 I’m currently exploring Adv statistics and ML
 - 📫 Feel free to reach me at rakshit512002@gmail.com
 
 <!---
